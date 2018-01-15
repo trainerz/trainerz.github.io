@@ -1,0 +1,62 @@
+html {
+  height: 80%;
+}
+body {
+  width: 800px;
+  margin: 0 auto;
+  padding-top: 5px;
+  height: 100%;
+}
+header {
+  background-color: grey;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 50px;
+  display: block;
+  width: 790px;
+}
+nav {
+  line-height: 30px;
+  background-color: green;
+}
+.center {
+    text-align: center;
+    border: 30px solid green;
+}
+li  {
+  display: inline-block;
+  padding: 35px;
+  font-size: 20px;
+}
+#artist-heading {
+  text-align:center;
+  font-size: 75px;
+  font-family: "Kavivanar";
+  font-style: italic;
+}
+#puget-sounds {
+  text-align: center;
+  font-style: italic;
+  font-family: "Kavivanar";
+  color:#1668d2;
+}
+h2 {
+  text-align: center;
+}
+#aboutus {
+  text-align: center;
+  display: block;
+  padding-bottom: 20px;
+}
+p {
+  text-align: center;
+  font-style:
+}
+img {
+  height: 290px;
+  text-align: left;
+}
+ul {
+  text-align: center;
+}

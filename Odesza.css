@@ -1,0 +1,30 @@
+html {
+  height: 100%;
+}
+body {
+  width: 500px;
+  margin: 0 auto;
+  padding-top: 5px;
+  height: 100%;
+}
+header {
+  color: black;
+  text-align: left;
+  padding: 5px;
+  font-size: 20px;
+  display: block;
+  width:500px;
+}
+#ODESZA {
+  width: 500px;
+  height: auto;
+  padding-right: 50px;
+}
+#odeszalive {
+  width: 500px;
+  height: auto;
+  padding-right: 50px;
+}
+p {
+  font-size: 18px;
+}

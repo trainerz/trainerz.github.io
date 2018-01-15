@@ -1,0 +1,43 @@
+html {
+  height: 100%;
+}
+body {
+  width: 950px;
+  margin: 0 auto;
+  padding-top: 5px;
+  height: 100%;
+}
+header {
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding: 5px;
+  font-size: 20px;
+  display: block;
+  width:950px;
+}
+#RyanPic {
+  width: 360px;
+  height: auto;
+  padding-right: 50px;
+}
+#AndrewPic {
+  width: 360px;
+  height: auto;
+  padding-right: 50px;
+}
+#TommyPic {
+  width: 360px;
+  height: auto;
+  padding-right: 50px;
+}
+#ZachPic {
+  width: 360px;
+  height: auto;
+  padding-right: 50px;
+}
+p {
+  float: left;
+  font-size: 30px;
+  font-family: "Times New Roman";
+}
